@@ -39,7 +39,7 @@ public class Test : MonoBehaviour
 
     public void Awake()
     {
-        Vector vertor = new Vector("");
+       // Vector vertor = new Vector("");
     }
 
 
@@ -50,9 +50,9 @@ public class Test : MonoBehaviour
 
 public class Vector
 {
-    string name;
-    public Vector(string str)
-    {
-        this.name = str;
-    }
+    //string name;
+    //public Vector(string str)
+    //{
+    //    this.name = str;
+    //}
 }
